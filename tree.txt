@@ -1,0 +1,15 @@
+Структура папок тома Новый том
+Серийный номер тома: DABA-AFAC
+V:.
+L---lab-18
+    +---git
+    +---Lesya_Ukrainka
+    ¦   +---Lisova_pisnya
+    ¦   L---Na_krilah_pisen
+    +---Lina_Kostenko
+    ¦   +---Marusya_Churai
+    ¦   L---Nepovtornist
+    L---Taras_Shevchenko
+        +---Catherine
+        +---Kobzar
+        L---Nevilnik
